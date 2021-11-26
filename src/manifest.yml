@@ -1,7 +1,0 @@
-applications:
-- name:    assess 
-  memory:  64M
-  disk_quota: 64M
-  instances: 2
-routes:
-- route: cater.azurewebsites.net
