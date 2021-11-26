@@ -8,7 +8,7 @@ The [Cloud Assessment Tool (CAT)](https://cater.azurewebsites.net) is designed t
 
 ## Production deployment
 
-The CAT is designed to be hosted on Azure websites. The Cloud Foundry manifest is available at `src/manifest.yml`. The CircleCI config is available at `.circleci/config.yml`.
+The CAT is designed to be hosted on Azure websites. 
 
 ## Server-side application
 

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/3f5fec94-18c9-4290-b8f6-79cca5c0844e/resourceGroups/RGDTGMSANDBOX201/providers/Microsoft.Web/sites/cater",
+    "appService.deploySubpath": "."
+}
