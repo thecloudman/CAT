@@ -1,18 +1,18 @@
 # Cloud Assessment Tool
 
-[![CircleCI](https://circleci.com/gh/govau/cloud-assessment.svg?style=svg)](https://circleci.com/gh/govau/cloud-assessment)
+
 
 ## Outline
 
-The [Cloud Assessment Tool (CAT)](https://assess.cloud.gov.au) is designed to help Australian Government agencies discover and understand their compliance obligations when moving to cloud. It is part of the [Digital Transformation Agency's](https://www.dta.gov.au) [Secure Cloud Strategy](https://www.dta.gov.au/our-projects/secure-cloud-strategy).
+The [Cloud Assessment Tool (CAT)](https://cater.azurewebsites.net) is designed to help discover and understand the compliance obligations when moving to cloud. 
 
 ## Production deployment
 
-The CAT is designed to be hosted on cloud.gov.au using CircleCI for deployments. The Cloud Foundry manifest is available at `src/manifest.yml`. The CircleCI config is available at `.circleci/config.yml`.
+The CAT is designed to be hosted on Azure websites. The Cloud Foundry manifest is available at `src/manifest.yml`. The CircleCI config is available at `.circleci/config.yml`.
 
 ## Server-side application
 
-There is a related server-side app called [cloud-assessment-server](https://github.com/govau/cloud-assessment-server) which is used for uploading and storing completed reports.
+
 
 ## Development server
 
